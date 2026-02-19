@@ -5,7 +5,7 @@ This project develops a machine learning solution to predict the recommended cre
 The final model is deployed as an interactive web application via Streamlit Cloud, allowing stakeholders to input customer profiles and receive real-time predictions.
 
 Live Demo
-View the interactive app here: 
+View the interactive app here: https://german-credit-amount-predictor-mhnxwje3g7y8nsuqqzqege.streamlit.app/
 
 The Machine Learning Pipeline
 1. Data Preprocessing & EDA
